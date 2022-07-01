@@ -7,10 +7,17 @@ sites:
     url: https://publish.obsidian.md/kaas-published/
   - name: KaaS - GitHub Pages
     url: https://kaas.jimbrig.com
-  - name: GitHub Profile
-    url: https://github.com/jimbrig
   - name: Devfolio
     url: https://devfolio.jimbrig.com
+  - name: GitHub Profile
+    url: https://github.com/jimbrig
+  - name: Clip2Mark
+    url: https://clip2mark.jimbrig.com
+  - name: GitHub Issues App
+    url: https://github-issues.jimbrig.com
+  - name: JimsDocs
+    url: https://jimsdocs.jimbrig.com
+    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
