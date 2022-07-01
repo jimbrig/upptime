@@ -4,19 +4,19 @@
     "url": "https://publish.obsidian.md/kaas-published/",
     "icon": "https://favicons.githubusercontent.com/publish.obsidian.md",
     "slug": "kaa-s-obsidian-publish",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 354,
     "timeDay": 354,
     "timeWeek": 354,
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 6
     }
   },
   {
