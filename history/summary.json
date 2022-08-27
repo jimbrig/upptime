@@ -22,9 +22,9 @@
     "url": "https://kaas.jimbrig.com",
     "icon": "https://favicons.githubusercontent.com/kaas.jimbrig.com",
     "slug": "kaa-s-git-hub-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 203,
     "timeMonth": 207,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-27": 0
+    }
   },
   {
     "name": "Devfolio",
     "url": "https://devfolio.jimbrig.com",
     "icon": "https://favicons.githubusercontent.com/devfolio.jimbrig.com",
     "slug": "devfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 159,
     "timeMonth": 174,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-27": 0
+    }
   },
   {
     "name": "GitHub Profile",
@@ -76,9 +80,9 @@
     "url": "https://clip2mark.jimbrig.com",
     "icon": "https://favicons.githubusercontent.com/clip2mark.jimbrig.com",
     "slug": "clip2-mark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,18 +91,20 @@
     "timeWeek": 142,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-27": 0
+    }
   },
   {
     "name": "GitHub Issues App",
     "url": "https://github-issues.jimbrig.com",
     "icon": "https://favicons.githubusercontent.com/github-issues.jimbrig.com",
     "slug": "git-hub-issues-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 503,
     "timeDay": 322,
@@ -106,6 +112,7 @@
     "timeMonth": 706,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2022-08-27": 0,
       "2022-07-27": 35,
       "2022-07-26": 77
     }
@@ -115,9 +122,9 @@
     "url": "https://jimsdocs.jimbrig.com",
     "icon": "https://favicons.githubusercontent.com/jimsdocs.jimbrig.com",
     "slug": "jims-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,6 +133,8 @@
     "timeWeek": 144,
     "timeMonth": 160,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-27": 0
+    }
   }
 ]
