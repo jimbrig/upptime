@@ -3,20 +3,35 @@ owner: jimbrig # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Property Allocation WebApp
+    url: https://propertyallocation.jimbrig.com/
   - name: KaaS - Obsidian Publish
     url: https://publish.obsidian.md/kaas-published/
   - name: KaaS - GitHub Pages
     url: https://kaas.jimbrig.com
+  - name: Projects Site
+    url: https://docs.jimbrig.com/projects/
   - name: Devfolio
-    url: https://devfolio.jimbrig.com
+    url: https://docs.jimbrig.com/devpholio/
   - name: GitHub Profile
     url: https://github.com/jimbrig
   - name: Clip2Mark
     url: https://clip2mark.jimbrig.com
   - name: GitHub Issues App
     url: https://github-issues.jimbrig.com
-  - name: JimsDocs
-    url: https://jimsdocs.jimbrig.com
+  - name: GitHub Stars App
+    url: https://jimsshinyapps.shinyapps.io/jimsghstars/
+  - name: JimsDocs Distill Blog
+    url: https://docs.jimbrig.com/jimsdocs/
+  - name: The R Dispatch Blogdown
+    url: https://therdispatch.jimbrig.com/
+  - name: lossrx Docs
+    url: https://docs.jimbrig.com/lossrx
+  - name: jimstools Docs
+    url: https://docs.jimbrig.com/jimstools/
+  - name: R Universe
+    url: https://jimbrig.r-universe.dev/
+  
     
     
 status-website:
@@ -26,8 +41,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Jimmy Briggs' (jimbrig) personal uptime monitor powered entirely by GitHub."
+  introMessage: This page showcases my various websites current status using **real-time** data via [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
