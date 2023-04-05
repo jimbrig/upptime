@@ -22,19 +22,19 @@
     "url": "https://publish.obsidian.md/kaas-published/",
     "icon": "https://icons.duckduckgo.com/ip3/publish.obsidian.md.ico",
     "slug": "kaa-s-obsidian-publish",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.86%",
     "time": 452,
-    "timeDay": 459,
-    "timeWeek": 385,
-    "timeMonth": 406,
+    "timeDay": 437,
+    "timeWeek": 389,
+    "timeMonth": 407,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-04-05": 0,
+      "2023-04-05": 7,
       "2023-03-29": 176,
       "2023-03-14": 371
     }
@@ -83,7 +83,7 @@
     "timeMonth": 151,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-04-05": 923,
+      "2023-04-05": 930,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -179,7 +179,7 @@
     "timeMonth": 42,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-04-05": 923,
+      "2023-04-05": 930,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -322,7 +322,7 @@
     "timeMonth": 150,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-04-05": 923,
+      "2023-04-05": 930,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -473,7 +473,7 @@
     "timeMonth": 205,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2023-04-05": 923,
+      "2023-04-05": 930,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
