@@ -85,7 +85,7 @@
     "timeMonth": 139,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-06-07": 1341,
+      "2023-06-07": 1359,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -244,7 +244,7 @@
     "timeMonth": 38,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-06-07": 1341,
+      "2023-06-07": 1359,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -450,7 +450,7 @@
     "timeMonth": 177,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-06-07": 1341,
+      "2023-06-07": 1359,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -634,19 +634,19 @@
     "url": "https://jimsshinyapps.shinyapps.io/jimsghstars/",
     "icon": "https://icons.duckduckgo.com/ip3/jimsshinyapps.shinyapps.io.ico",
     "slug": "git-hub-stars-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1881,
-    "timeDay": 2842,
-    "timeWeek": 2384,
-    "timeMonth": 2245,
-    "timeYear": 1881,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1884,
+    "timeDay": 2719,
+    "timeWeek": 2410,
+    "timeMonth": 2256,
+    "timeYear": 1884,
     "dailyMinutesDown": {
-      "2023-06-07": 0
+      "2023-06-07": 18
     }
   },
   {
@@ -666,7 +666,7 @@
     "timeMonth": 180,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-06-07": 1341,
+      "2023-06-07": 1359,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
