@@ -1,7 +1,7 @@
 url: https://kaas.jimbrig.com
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2023-10-02T23:04:22.154Z
+status: down
+code: 502
+responseTime: 100
+lastUpdated: 2023-10-03T02:06:45.820Z
 startTime: 2022-07-01T01:06:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
