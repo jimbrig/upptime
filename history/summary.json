@@ -1351,19 +1351,19 @@
     "url": "https://jimbrig.r-universe.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/jimbrig.r-universe.dev.ico",
     "slug": "r-universe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 113,
-    "timeWeek": 320,
-    "timeMonth": 485,
+    "time": 252,
+    "timeDay": 157,
+    "timeWeek": 307,
+    "timeMonth": 478,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-11-16": 1
+      "2023-11-16": 7
     }
   }
 ]
