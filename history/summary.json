@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "projects-site",
     "status": "up",
-    "uptime": "37.21%",
+    "uptime": "37.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -342,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "devfolio",
     "status": "up",
-    "uptime": "43.68%",
+    "uptime": "43.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -619,7 +619,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-profile",
     "status": "up",
-    "uptime": "87.06%",
+    "uptime": "87.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -704,7 +704,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip2mark.jimbrig.com.ico",
     "slug": "clip2-mark",
     "status": "up",
-    "uptime": "47.85%",
+    "uptime": "47.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1021,7 +1021,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "jims-docs-distill-blog",
     "status": "up",
-    "uptime": "37.21%",
+    "uptime": "37.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1351,10 +1351,10 @@
     "url": "https://jimbrig.r-universe.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/jimbrig.r-universe.dev.ico",
     "slug": "r-universe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
@@ -1362,6 +1362,8 @@
     "timeWeek": 320,
     "timeMonth": 485,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 1
+    }
   }
 ]
