@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/propertyallocation.jimbrig.com.ico",
     "slug": "property-allocation-web-app",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.96%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.95%",
     "time": 916,
     "timeDay": 3655,
     "timeWeek": 1550,
     "timeMonth": 1035,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-12-08": 0,
+      "2023-12-08": 63,
       "2023-05-25": 149,
       "2023-05-15": 36
     }
@@ -705,7 +705,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip2mark.jimbrig.com.ico",
     "slug": "clip2-mark",
     "status": "up",
-    "uptime": "50.11%",
+    "uptime": "50.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1353,10 +1353,10 @@
     "url": "https://jimbrig.r-universe.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/jimbrig.r-universe.dev.ico",
     "slug": "r-universe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
@@ -1364,6 +1364,8 @@
     "timeWeek": 132,
     "timeMonth": 196,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 1
+    }
   }
 ]
