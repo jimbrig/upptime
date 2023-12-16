@@ -8,7 +8,7 @@
     "uptime": "98.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.07%",
+    "uptimeMonth": "75.06%",
     "uptimeYear": "97.89%",
     "time": 914,
     "timeDay": 161,
@@ -16,7 +16,7 @@
     "timeMonth": 1039,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2023-12-16": 576,
+      "2023-12-16": 580,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -1361,19 +1361,19 @@
     "url": "https://jimbrig.r-universe.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/jimbrig.r-universe.dev.ico",
     "slug": "r-universe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 92,
-    "timeWeek": 136,
-    "timeMonth": 149,
+    "timeDay": 175,
+    "timeWeek": 150,
+    "timeMonth": 153,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-12-16": 1
+      "2023-12-16": 4
     }
   }
 ]
