@@ -16,7 +16,7 @@
     "timeMonth": 640,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-03-06": 342,
+      "2024-03-06": 348,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -926,19 +926,19 @@
     "url": "https://github-issues.jimbrig.com",
     "icon": "https://icons.duckduckgo.com/ip3/github-issues.jimbrig.com.ico",
     "slug": "git-hub-issues-app",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 112,
-    "timeWeek": 158,
-    "timeMonth": 191,
+    "timeDay": 117,
+    "timeWeek": 157,
+    "timeMonth": 189,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-03-06": 0
+      "2024-03-06": 6
     }
   },
   {
