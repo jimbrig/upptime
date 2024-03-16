@@ -8,7 +8,7 @@
     "uptime": "82.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.24%",
+    "uptimeMonth": "31.28%",
     "uptimeYear": "75.23%",
     "time": 879,
     "timeDay": 1034,
@@ -904,7 +904,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 186,
+    "timeDay": 169,
     "timeWeek": 145,
     "timeMonth": 159,
     "timeYear": 208,
@@ -1161,11 +1161,11 @@
     "url": "https://therdispatch.jimbrig.com/",
     "icon": "https://icons.duckduckgo.com/ip3/therdispatch.jimbrig.com.ico",
     "slug": "the-r-dispatch-blogdown",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 174,
@@ -1173,7 +1173,7 @@
     "timeMonth": 314,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-03-16": 8
+      "2024-03-16": 0
     }
   },
   {
@@ -1221,7 +1221,7 @@
     "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.04%",
+    "uptimeMonth": "64.08%",
     "uptimeYear": "94.59%",
     "time": 233,
     "timeDay": 92,
