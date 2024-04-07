@@ -8,7 +8,7 @@
     "uptime": "83.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.01%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "75.23%",
     "time": 882,
     "timeDay": 1051,
@@ -1092,19 +1092,19 @@
     "url": "https://docs.jimbrig.com/lossrx",
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "lossrx-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 1089,
-    "timeWeek": 303,
-    "timeMonth": 110,
+    "timeDay": 755,
+    "timeWeek": 279,
+    "timeMonth": 109,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 8
     }
   },
   {
