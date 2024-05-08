@@ -1,7 +1,7 @@
 url: https://jimbrig.r-universe.dev/
-status: up
-code: 200
-responseTime: 83
-lastUpdated: 2024-05-07T23:04:36.825Z
+status: down
+code: 502
+responseTime: 177
+lastUpdated: 2024-05-08T01:22:26.364Z
 startTime: 2022-10-04T01:57:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
