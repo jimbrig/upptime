@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/propertyallocation.jimbrig.com.ico",
     "slug": "property-allocation-web-app",
     "status": "up",
-    "uptime": "86.60%",
+    "uptime": "86.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.26%",
-    "time": 1310,
-    "timeDay": 780,
-    "timeWeek": 3671,
-    "timeMonth": 3265,
-    "timeYear": 1418,
+    "time": 1317,
+    "timeDay": 4581,
+    "timeWeek": 3610,
+    "timeMonth": 3244,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2024-03-08": 152,
       "2024-03-07": 1440,
@@ -122,10 +122,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 496,
-    "timeDay": 744,
-    "timeWeek": 728,
-    "timeMonth": 586,
-    "timeYear": 463,
+    "timeDay": 307,
+    "timeWeek": 666,
+    "timeMonth": 582,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2024-07-23": 78
     }
@@ -141,10 +141,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 211,
-    "timeWeek": 244,
-    "timeMonth": 200,
+    "time": 228,
+    "timeDay": 176,
+    "timeWeek": 220,
+    "timeMonth": 201,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -154,14 +154,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "projects-site",
     "status": "up",
-    "uptime": "62.05%",
+    "uptime": "62.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
+    "uptimeYear": "85.18%",
     "time": 161,
-    "timeDay": 271,
-    "timeWeek": 233,
+    "timeDay": 137,
+    "timeWeek": 215,
     "timeMonth": 168,
     "timeYear": 157,
     "dailyMinutesDown": {
@@ -217,8 +217,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -227,14 +226,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "devfolio",
     "status": "up",
-    "uptime": "63.21%",
+    "uptime": "63.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
+    "uptimeYear": "85.18%",
     "time": 39,
-    "timeDay": 8,
-    "timeWeek": 63,
+    "timeDay": 11,
+    "timeWeek": 49,
     "timeMonth": 31,
     "timeYear": 40,
     "dailyMinutesDown": {
@@ -290,8 +289,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -300,16 +298,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-profile",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.40%",
-    "time": 744,
-    "timeDay": 287,
-    "timeWeek": 453,
-    "timeMonth": 365,
-    "timeYear": 718,
+    "uptimeYear": "82.67%",
+    "time": 743,
+    "timeDay": 214,
+    "timeWeek": 382,
+    "timeMonth": 359,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2023-10-12": 368,
       "2023-10-11": 1440,
@@ -372,8 +370,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -382,15 +379,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip2mark.jimbrig.com.ico",
     "slug": "clip2-mark",
     "status": "up",
-    "uptime": "65.94%",
+    "uptime": "65.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
-    "time": 143,
-    "timeDay": 100,
-    "timeWeek": 214,
-    "timeMonth": 157,
+    "uptimeYear": "85.18%",
+    "time": 142,
+    "timeDay": 146,
+    "timeWeek": 187,
+    "timeMonth": 159,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-03": 138,
@@ -445,8 +442,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -461,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 209,
-    "timeDay": 145,
-    "timeWeek": 258,
-    "timeMonth": 211,
+    "timeDay": 194,
+    "timeWeek": 228,
+    "timeMonth": 210,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2024-04-19": 26,
@@ -486,9 +482,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 2634,
-    "timeDay": 2585,
-    "timeWeek": 2448,
-    "timeMonth": 3007,
+    "timeDay": 2714,
+    "timeWeek": 2413,
+    "timeMonth": 2958,
     "timeYear": 2670,
     "dailyMinutesDown": {
       "2024-07-08": 48,
@@ -509,14 +505,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.jimbrig.com.ico",
     "slug": "jims-docs-distill-blog",
     "status": "up",
-    "uptime": "62.05%",
+    "uptime": "62.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
+    "uptimeYear": "85.18%",
     "time": 196,
-    "timeDay": 216,
-    "timeWeek": 278,
+    "timeDay": 233,
+    "timeWeek": 251,
     "timeMonth": 210,
     "timeYear": 185,
     "dailyMinutesDown": {
@@ -572,8 +568,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -587,11 +582,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 130,
-    "timeWeek": 167,
+    "time": 256,
+    "timeDay": 121,
+    "timeWeek": 148,
     "timeMonth": 181,
-    "timeYear": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -606,8 +601,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 18,
-    "timeWeek": 111,
+    "timeDay": 15,
+    "timeWeek": 82,
     "timeMonth": 53,
     "timeYear": 73,
     "dailyMinutesDown": {}
@@ -624,8 +619,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 8,
-    "timeWeek": 61,
+    "timeDay": 11,
+    "timeWeek": 49,
     "timeMonth": 31,
     "timeYear": 40,
     "dailyMinutesDown": {}
@@ -642,9 +637,9 @@
     "uptimeMonth": "97.91%",
     "uptimeYear": "94.39%",
     "time": 298,
-    "timeDay": 165,
-    "timeWeek": 171,
-    "timeMonth": 183,
+    "timeDay": 111,
+    "timeWeek": 161,
+    "timeMonth": 182,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-07-19": 479,
