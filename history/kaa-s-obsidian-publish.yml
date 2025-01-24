@@ -1,7 +1,7 @@
 url: https://publish.obsidian.md/kaas-published/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2025-01-24T18:03:48.045Z
+status: down
+code: 502
+responseTime: 391
+lastUpdated: 2025-01-24T18:56:15.442Z
 startTime: 2022-07-01T01:06:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
