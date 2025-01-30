@@ -135,19 +135,19 @@
     "url": "https://github.com/jimbrig",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-profile",
-    "status": "down",
+    "status": "up",
     "uptime": "93.11%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 5640,
-    "timeWeek": 1745,
-    "timeMonth": 700,
-    "timeYear": 495,
+    "time": 621,
+    "timeDay": 4850,
+    "timeWeek": 1915,
+    "timeMonth": 778,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 12
     }
   },
   {
