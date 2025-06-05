@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/propertyallocation.jimbrig.com.ico",
     "slug": "property-allocation-web-app",
     "status": "down",
-    "uptime": "78.05%",
+    "uptime": "78.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 681,
     "timeYear": 2014,
     "dailyMinutesDown": {
-      "2025-06-05": 650,
+      "2025-06-05": 656,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -322,19 +322,19 @@
     "url": "https://therdispatch.jimbrig.com/",
     "icon": "https://icons.duckduckgo.com/ip3/therdispatch.jimbrig.com.ico",
     "slug": "the-r-dispatch-blogdown",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 190,
-    "timeWeek": 170,
-    "timeMonth": 241,
-    "timeYear": 239,
+    "timeDay": 149,
+    "timeWeek": 162,
+    "timeMonth": 237,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-06-05": 0
+      "2025-06-05": 6
     }
   },
   {
