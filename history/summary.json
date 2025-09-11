@@ -16,7 +16,7 @@
     "timeMonth": 228,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2025-09-11": 966,
+      "2025-09-11": 990,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -379,19 +379,19 @@
     "url": "https://jimsshinyapps.shinyapps.io/jimsghstars/",
     "icon": "https://icons.duckduckgo.com/ip3/jimsshinyapps.shinyapps.io.ico",
     "slug": "git-hub-stars-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2781,
-    "timeDay": 1731,
-    "timeWeek": 2300,
-    "timeMonth": 3156,
-    "timeYear": 2772,
+    "time": 2783,
+    "timeDay": 2329,
+    "timeWeek": 2436,
+    "timeMonth": 3167,
+    "timeYear": 2774,
     "dailyMinutesDown": {
-      "2025-09-11": 1
+      "2025-09-11": 24
     }
   },
   {
